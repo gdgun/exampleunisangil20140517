@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 *~
 *.pyc
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -55,5 +53,3 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
-
->>>>>>> e3c827a179f8f09f2b6d6b9550f4512be81b86de
